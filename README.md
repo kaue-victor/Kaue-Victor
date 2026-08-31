@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens 
 
 <img 
     align="left" 
